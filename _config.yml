@@ -3,6 +3,10 @@ destination: ./_site
 includes:    ./_includes
 baseurl: 
 
+domain: jsycsjh.github.io
+url: https://jsycsjh.github.io
+
+
 collections:
   projects:
     output: true
